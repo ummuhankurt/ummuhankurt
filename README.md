@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ummuhankurt
 - 👀 I’m interested in web projects and back-end development.
-- 🌱 I’m currently learning C#, .NET, Angular
+- 🌱 I’m currently learning C#, .NET, Angular,JavaScript
 - 📫 How to reach me https://www.linkedin.com/in/ummuhan-kurt-ba613b1a1/
 
 <!---
